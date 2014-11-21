@@ -1,4 +1,4 @@
-{ cabal, comonad, gloss }:
+{ cabal, array, comonad, gloss }:
 
 cabal.mkDerivation (self: {
   pname = "fpdays-mass-pairing";
